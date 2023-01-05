@@ -1,3 +1,10 @@
+# Introducción
+
+En las siguientes metricas se permite trazar y medir la utilización del internet en la republica Argentina de acuerdo a sus provincias teniendo como base el año y trimestre. 
+
+En donde se trata de dar de conocer el desempeño de los accesos a internet por trimestres y los distintos tipos de conectividad a la red con la finalidad de mejorar la toma de decisiones en la eficiencia de los productos que se pueden llegar a ofrecer al cliente dependiendo de la población en la que se encuentre.
+
+
 # Glosario
 
 Argentina: El territorio nacional se divide en 23 provincias y en una ciudad autónoma que funciona como la capital federal (la Ciudad Autónoma de Buenos Aires).
